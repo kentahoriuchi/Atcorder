@@ -1,4 +1,3 @@
-
 N = int(input())
 A = list(map(int, input().split()))
 A = [[a,i] for a,i in zip(A,range(N))]
