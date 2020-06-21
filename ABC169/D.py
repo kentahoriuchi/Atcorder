@@ -3,7 +3,7 @@ N = int(input())
 if N == 1:
   print(0)
 
-else:
+else:1
   def factorization(n):
       arr = []
       temp = n
