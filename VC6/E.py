@@ -5,4 +5,3 @@ for i in range(1,H+1):
     for j in range(W):
         C[j+1][i] = c[j]
 
-print(C)
